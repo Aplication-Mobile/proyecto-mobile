@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617600541618",
+    "project_id": "proyecto-web3-a51e2",
+    "storage_bucket": "proyecto-web3-a51e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617600541618:android:e1a9686f82d419bb62faab",
+        "android_client_info": {
+          "package_name": "com.will.bananap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617600541618-2r5ha472qtpuufldhb9jstbht49t5t2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSRbtiGfXZCLYmZqsxoD5g5D60aynoc5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617600541618-2r5ha472qtpuufldhb9jstbht49t5t2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
